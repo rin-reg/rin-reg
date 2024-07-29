@@ -25,7 +25,9 @@
 <br>
 
 Discord: [Discord](https://discord.com/login)
+
 Telegram: [Telegram](https://web.telegram.org/a/)
+
 Email: [Email](https://www.google.com)
 
 <br>
