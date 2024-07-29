@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @rin-reg
-- 👀 I’m interested in Malware Development, Social Engineering, Malware Analysis, Info Security, etc
-- 🌱 I’m currently learning Python/C++
-- 💞️ I’m looking to collaborate on Malware Development and Malware Analysis
-- 📫 How to reach me Telegram/PM
-- 
+-  Hi, I’m @rin-reg
+-  I’m interested in Malware Development, Social Engineering, Malware Analysis, Info Security, etc
+-  I’m currently learning Python/C++
+-  I’m looking to collaborate on Malware Development and Malware Analysis
+-  How to reach me Telegram/PM
